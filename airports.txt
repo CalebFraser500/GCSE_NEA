@@ -1,0 +1,8 @@
+JFK,John F Kennedy International,5326,5486
+ORY,Paris-Orly,629,379
+MAD,Adolfo Suarez Madrid-Barajas,1428,1151
+AMS,Amsterdam Schipol,526,489
+CAI,Cairo International,3779,3584
+medium narrow body,8,2650,180,8
+large narrow body,7,5600,220,10
+medium wide body,5,4050,406,14
